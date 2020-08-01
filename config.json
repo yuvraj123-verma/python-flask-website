@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/freakeycoder",
+    "prod_uri":"mysql://root:@localhost/freakeycoder",
+    "fb_url":"https://facebook.com/codingthunder",
+    "tw_url":"https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "Freakey Coder",
+    "tag_line": "Heaven for programmers",
+    "gmail-user":"your-email@gmail.com",
+    "gmail-password":"gmailpassword",
+    "about_text": "Hi my name is harry and I create programming tutorials and I am a good boy",
+    "no_of_posts": 2,
+    "login_image":"login.svg",
+    "admin_user":"yuvraj",
+    "admin_password": "parshi",
+    "upload_location": "C:\\Users\\hp\\Desktop\\python_flask\\static\\img"
+  }
+
+}
